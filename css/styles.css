@@ -1,0 +1,11 @@
+.root{
+    --light-color:#ffe7ae;
+}
+.banner{
+    background: var(--light-color) ;
+    background-image: url("../images/main-banner.jpg");
+    
+}
+.banner .container{
+    background-color: rgba(0, 0, 0, 0.75);
+}
